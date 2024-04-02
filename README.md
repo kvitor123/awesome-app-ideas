@@ -13,6 +13,10 @@
 ### Benjamin Franklin's 13 Virtues app
 ### Book search
 
+### Brokerage app
+
+An app that can take a look at trends in the stock market and automatically sell or purchase when the a stock or ETF reaches a certain price. This would be done after the person answers a series of questions that help give the app an idea of what kind of investor they are. Something that's automated to where the person doesn't hvae to keep on monitoring it or something they can easily track, then answering yes/no questions if they want to adjust anything in the automation. 
+
 ### BTN workouts app
 
 ### Calculator
